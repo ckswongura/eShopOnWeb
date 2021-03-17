@@ -2,6 +2,6 @@
 {
     public class CatalogSettings
     {
-        public string CatalogBaseUrl { get><; set; }
+        public string CatalogBaseUrl { get>222<; set; }
     }
 }
